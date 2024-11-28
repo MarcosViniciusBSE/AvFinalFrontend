@@ -1,0 +1,20 @@
+.btn-table{
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.form{
+    margin-top: 10px;
+    border: 1px solid #dee2e6;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+
+.btn-form{
+    width: 100%;
+    margin-top: 25px;
+}
+
+.select-form{
+    margin-top: 25px;
+}
